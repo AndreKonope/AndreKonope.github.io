@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background-image: url(scene.jpeg);
+    background-image: url(../images/scene.jpeg);
     background-size: cover;
 }
 
@@ -16,6 +16,8 @@ body,html {
     min-height: 100vh;
     align-items: center;
     justify-content: center;
+    
+ 
 }
 
 .key {
