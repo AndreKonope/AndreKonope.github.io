@@ -11,6 +11,6 @@
          this.classList.remove('playing');
   } 
   const keys = document.querySelectorAll('.key');
-  keys.forEach(kez => kez.addEventListener('transitionend', removeTransition));
+  keys.forEach(key => key.addEventListener('transitionend', removeTransition));
 
 
